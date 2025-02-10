@@ -17,3 +17,8 @@ This project is designed to process PDF files, extract text from them, split the
   - A custom `TokenTextSplitter` class
   - JDBC support for database interaction
   - OpenAI API integration (for processing and retrieving responses from OpenAI)
+
+
+
+ <img width="737" alt="image" src="https://github.com/user-attachments/assets/03123e34-8f2c-400d-9fa4-55b887559d36" />
+
